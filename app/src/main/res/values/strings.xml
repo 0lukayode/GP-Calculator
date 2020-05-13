@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GPCalculator</string>
+    <string name="courses">courses</string>
+    <string name="grade">grade</string>
+    <string name="units">units</string>
+    <string name="course1">course1</string>
+    <string name="course2">course2</string>
+    <string name="course3">course3</string>
+    <string name="course4">course4</string>
+    <string name="course5">course5</string>
+    <string name="course6">course6</string>
+    <string name="course7">course7</string>
+    <string name="course8">course8</string>
+    <string name="course9">course9</string>
+    <string name="submit">submit</string>
+    <string name="reset">reset</string>
+    <string name="remarks">remarks</string>
+    <string name="gpa">GPA</string>
+    <string name="home">HOME</string>
+
+
+</resources>
