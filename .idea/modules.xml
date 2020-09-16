@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GP-Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/GP-Calculator.iml" group="GP-Calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GP-Calculator/app" />
       <module fileurl="file://$PROJECT_DIR$/gpcalculator.iml" filepath="$PROJECT_DIR$/gpcalculator.iml" />
     </modules>
   </component>
